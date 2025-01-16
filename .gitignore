@@ -16,7 +16,6 @@
 target/*
 
 # Platform-specific settings
-.DS_Store
 *.crc_block
 *.no_crc
 
@@ -36,6 +35,9 @@ target/*
 Thumbs.db
 *.stackdump
 [Dd]esktop.ini
+
+# Mac
+.DS_Store
 
 # C Prerequisites
 *.d
