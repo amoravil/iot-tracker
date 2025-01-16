@@ -1,0 +1,15 @@
+{
+    "extensions.ignoreRecommendations": true,
+    "C_Cpp.default.configurationProvider": "particle.particle-vscode-core",
+    "files.associations": {
+        "*.ino": "cpp",
+        "__hash_table": "cpp",
+        "initializer_list": "cpp",
+        "unordered_map": "cpp"
+    },
+    "particle.targetPlatform": "electron",
+    "particle.firmwareVersion": "3.3.1",
+    "particle.targetDevice": "SBH9905",
+    "C_Cpp.errorSquiggles": "disabled",
+    "particle.debugWarningShown": true
+}
